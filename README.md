@@ -2,7 +2,7 @@
 
 The University Management System is a console-based application written in C++ to manage university student records. It allows users to perform operations such as adding, searching, and updating student information, with data persistence achieved through file handling.
 
-Features
+<h3>Features</h3>
 Add Student
 
 Collects and stores student details: Roll No, Name, Subject, and Address.
