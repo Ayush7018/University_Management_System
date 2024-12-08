@@ -48,4 +48,12 @@
         <li>A C++ compiler such as GCC or MSVC.</li>
         <li>The file <code>university.txt</code> should exist in the <code>D:/</code> directory (or the code should be modified to create it dynamically).</li>
     </ul>
+<br>
+<br>
+
+
+#Author
+
+<h2>Ayush Pandey</h2> <br>
+<h3> Gmail: ayushpandey98070@gmail.com </h3>
 
